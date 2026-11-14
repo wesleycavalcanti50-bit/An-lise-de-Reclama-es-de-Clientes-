@@ -1,0 +1,241 @@
+﻿ID,Data,Categoria,Status,Canal de Atendimento,Descrição
+1001,01/08/2026,Atraso na entrega,Pendente,Loja física,Reclamação de exemplo número 0
+1002,01/08/2026,Embalagem danificada,Resolvida,Site,Reclamação de exemplo número 1
+1003,01/08/2026,Atendimento ruim,Pendente,E-mail,Reclamação de exemplo número 2
+1004,02/08/2026,Troca ou devolução,Pendente,E-mail,Reclamação de exemplo número 3
+1005,02/08/2026,Garantia,Resolvida,Loja física,Reclamação de exemplo número 4
+1006,02/08/2026,Atendimento ruim,Pendente,Chat,Reclamação de exemplo número 5
+1007,03/08/2026,Atendimento ruim,Resolvida,Telefone,Reclamação de exemplo número 6
+1008,03/08/2026,Atraso na entrega,Pendente,Telefone,Reclamação de exemplo número 7
+1009,03/08/2026,Produto com defeito,Resolvida,Telefone,Reclamação de exemplo número 8
+1010,04/08/2026,Atendimento ruim,Resolvida,Chat,Reclamação de exemplo número 9
+1011,04/08/2026,Troca ou devolução,Pendente,Redes sociais,Reclamação de exemplo número 10
+1012,04/08/2026,Produto diferente do anunciado,Resolvida,Chat,Reclamação de exemplo número 11
+1013,05/08/2026,Produto com defeito,Resolvida,Redes sociais,Reclamação de exemplo número 12
+1014,05/08/2026,Atraso na entrega,Resolvida,E-mail,Reclamação de exemplo número 13
+1015,05/08/2026,Produto com defeito,Resolvida,Chat,Reclamação de exemplo número 14
+1016,06/08/2026,Dificuldade no cadastro,Pendente,Loja física,Reclamação de exemplo número 15
+1017,06/08/2026,Atraso na entrega,Resolvida,E-mail,Reclamação de exemplo número 16
+1018,06/08/2026,Atendimento ruim,Pendente,Telefone,Reclamação de exemplo número 17
+1019,07/08/2026,Problema no pagamento,Resolvida,Chat,Reclamação de exemplo número 18
+1020,07/08/2026,Atraso na entrega,Resolvida,Telefone,Reclamação de exemplo número 19
+1021,07/08/2026,Cobrança indevida,Pendente,Loja física,Reclamação de exemplo número 20
+1022,08/08/2026,Problema no pagamento,Resolvida,Telefone,Reclamação de exemplo número 21
+1023,08/08/2026,Produto com defeito,Resolvida,Telefone,Reclamação de exemplo número 22
+1024,08/08/2026,Cobrança indevida,Pendente,Site,Reclamação de exemplo número 23
+1025,09/08/2026,Dificuldade no cadastro,Resolvida,E-mail,Reclamação de exemplo número 24
+1026,09/08/2026,Atraso na entrega,Resolvida,Site,Reclamação de exemplo número 25
+1027,09/08/2026,Atendimento ruim,Pendente,E-mail,Reclamação de exemplo número 26
+1028,10/08/2026,Embalagem danificada,Resolvida,Telefone,Reclamação de exemplo número 27
+1029,10/08/2026,Troca ou devolução,Pendente,Telefone,Reclamação de exemplo número 28
+1030,10/08/2026,Atendimento ruim,Pendente,Telefone,Reclamação de exemplo número 29
+1031,11/08/2026,Atraso na entrega,Resolvida,E-mail,Reclamação de exemplo número 30
+1032,11/08/2026,Atendimento ruim,Resolvida,Telefone,Reclamação de exemplo número 31
+1033,11/08/2026,Produto com defeito,Resolvida,Telefone,Reclamação de exemplo número 32
+1034,12/08/2026,Atendimento ruim,Pendente,Loja física,Reclamação de exemplo número 33
+1035,12/08/2026,Produto com defeito,Resolvida,Site,Reclamação de exemplo número 34
+1036,12/08/2026,Produto diferente do anunciado,Resolvida,Chat,Reclamação de exemplo número 35
+1037,13/08/2026,Embalagem danificada,Resolvida,Site,Reclamação de exemplo número 36
+1038,13/08/2026,Produto com defeito,Pendente,Site,Reclamação de exemplo número 37
+1039,13/08/2026,Cobrança indevida,Resolvida,Telefone,Reclamação de exemplo número 38
+1040,14/08/2026,Produto com defeito,Pendente,E-mail,Reclamação de exemplo número 39
+1041,14/08/2026,Atendimento ruim,Resolvida,Chat,Reclamação de exemplo número 40
+1042,14/08/2026,Produto com defeito,Pendente,Telefone,Reclamação de exemplo número 41
+1043,15/08/2026,Troca ou devolução,Resolvida,E-mail,Reclamação de exemplo número 42
+1044,15/08/2026,Produto com defeito,Resolvida,Loja física,Reclamação de exemplo número 43
+1045,15/08/2026,Atendimento ruim,Pendente,Loja física,Reclamação de exemplo número 44
+1046,16/08/2026,Troca ou devolução,Resolvida,Chat,Reclamação de exemplo número 45
+1047,16/08/2026,Atendimento ruim,Pendente,Chat,Reclamação de exemplo número 46
+1048,16/08/2026,Dificuldade no cadastro,Resolvida,Chat,Reclamação de exemplo número 47
+1049,17/08/2026,Atraso na entrega,Resolvida,Site,Reclamação de exemplo número 48
+1050,17/08/2026,Embalagem danificada,Resolvida,Telefone,Reclamação de exemplo número 49
+1051,17/08/2026,Atendimento ruim,Resolvida,Chat,Reclamação de exemplo número 50
+1052,18/08/2026,Atendimento ruim,Resolvida,E-mail,Reclamação de exemplo número 51
+1053,18/08/2026,Cobrança indevida,Resolvida,E-mail,Reclamação de exemplo número 52
+1054,18/08/2026,Atendimento ruim,Resolvida,Chat,Reclamação de exemplo número 53
+1055,19/08/2026,Atendimento ruim,Pendente,E-mail,Reclamação de exemplo número 54
+1056,19/08/2026,Atraso na entrega,Resolvida,E-mail,Reclamação de exemplo número 55
+1057,19/08/2026,Atraso na entrega,Resolvida,Telefone,Reclamação de exemplo número 56
+1058,20/08/2026,Troca ou devolução,Resolvida,Redes sociais,Reclamação de exemplo número 57
+1059,20/08/2026,Atendimento ruim,Resolvida,Telefone,Reclamação de exemplo número 58
+1060,20/08/2026,Troca ou devolução,Pendente,Site,Reclamação de exemplo número 59
+1061,21/08/2026,Problema no pagamento,Pendente,Chat,Reclamação de exemplo número 60
+1062,21/08/2026,Troca ou devolução,Resolvida,Chat,Reclamação de exemplo número 61
+1063,21/08/2026,Atraso na entrega,Resolvida,Site,Reclamação de exemplo número 62
+1064,22/08/2026,Produto com defeito,Pendente,E-mail,Reclamação de exemplo número 63
+1065,22/08/2026,Cobrança indevida,Resolvida,E-mail,Reclamação de exemplo número 64
+1066,22/08/2026,Produto com defeito,Resolvida,Site,Reclamação de exemplo número 65
+1067,23/08/2026,Garantia,Resolvida,Site,Reclamação de exemplo número 66
+1068,23/08/2026,Problema no pagamento,Pendente,E-mail,Reclamação de exemplo número 67
+1069,23/08/2026,Produto diferente do anunciado,Pendente,Redes sociais,Reclamação de exemplo número 68
+1070,24/08/2026,Atendimento ruim,Resolvida,E-mail,Reclamação de exemplo número 69
+1071,24/08/2026,Produto diferente do anunciado,Resolvida,E-mail,Reclamação de exemplo número 70
+1072,24/08/2026,Atraso na entrega,Pendente,E-mail,Reclamação de exemplo número 71
+1073,25/08/2026,Produto com defeito,Pendente,Telefone,Reclamação de exemplo número 72
+1074,25/08/2026,Atendimento ruim,Pendente,Telefone,Reclamação de exemplo número 73
+1075,25/08/2026,Embalagem danificada,Pendente,Site,Reclamação de exemplo número 74
+1076,26/08/2026,Atendimento ruim,Resolvida,Telefone,Reclamação de exemplo número 75
+1077,26/08/2026,Atraso na entrega,Resolvida,E-mail,Reclamação de exemplo número 76
+1078,26/08/2026,Produto com defeito,Resolvida,Telefone,Reclamação de exemplo número 77
+1079,27/08/2026,Produto com defeito,Resolvida,E-mail,Reclamação de exemplo número 78
+1080,27/08/2026,Produto com defeito,Pendente,E-mail,Reclamação de exemplo número 79
+1081,27/08/2026,Atraso na entrega,Resolvida,Telefone,Reclamação de exemplo número 80
+1082,28/08/2026,Atendimento ruim,Pendente,Chat,Reclamação de exemplo número 81
+1083,28/08/2026,Atendimento ruim,Resolvida,E-mail,Reclamação de exemplo número 82
+1084,28/08/2026,Embalagem danificada,Pendente,Telefone,Reclamação de exemplo número 83
+1085,29/08/2026,Embalagem danificada,Resolvida,E-mail,Reclamação de exemplo número 84
+1086,29/08/2026,Atendimento ruim,Resolvida,Chat,Reclamação de exemplo número 85
+1087,29/08/2026,Atendimento ruim,Resolvida,Telefone,Reclamação de exemplo número 86
+1088,30/08/2026,Embalagem danificada,Resolvida,E-mail,Reclamação de exemplo número 87
+1089,30/08/2026,Dificuldade no cadastro,Pendente,Telefone,Reclamação de exemplo número 88
+1090,30/08/2026,Troca ou devolução,Resolvida,E-mail,Reclamação de exemplo número 89
+1091,31/08/2026,Produto diferente do anunciado,Pendente,Telefone,Reclamação de exemplo número 90
+1092,31/08/2026,Problema no pagamento,Resolvida,E-mail,Reclamação de exemplo número 91
+1093,31/08/2026,Atraso na entrega,Resolvida,Redes sociais,Reclamação de exemplo número 92
+1094,01/09/2026,Dificuldade no cadastro,Pendente,Telefone,Reclamação de exemplo número 93
+1095,01/09/2026,Produto com defeito,Resolvida,Loja física,Reclamação de exemplo número 94
+1096,01/09/2026,Atendimento ruim,Pendente,Telefone,Reclamação de exemplo número 95
+1097,02/09/2026,Embalagem danificada,Resolvida,E-mail,Reclamação de exemplo número 96
+1098,02/09/2026,Troca ou devolução,Pendente,Chat,Reclamação de exemplo número 97
+1099,02/09/2026,Atraso na entrega,Resolvida,Redes sociais,Reclamação de exemplo número 98
+1100,03/09/2026,Troca ou devolução,Resolvida,Site,Reclamação de exemplo número 99
+1101,03/09/2026,Atraso na entrega,Pendente,E-mail,Reclamação de exemplo número 100
+1102,03/09/2026,Produto com defeito,Resolvida,Redes sociais,Reclamação de exemplo número 101
+1103,04/09/2026,Produto diferente do anunciado,Pendente,Site,Reclamação de exemplo número 102
+1104,04/09/2026,Atendimento ruim,Pendente,Telefone,Reclamação de exemplo número 103
+1105,04/09/2026,Cobrança indevida,Resolvida,Telefone,Reclamação de exemplo número 104
+1106,05/09/2026,Troca ou devolução,Pendente,Chat,Reclamação de exemplo número 105
+1107,05/09/2026,Produto diferente do anunciado,Pendente,E-mail,Reclamação de exemplo número 106
+1108,05/09/2026,Embalagem danificada,Resolvida,Site,Reclamação de exemplo número 107
+1109,06/09/2026,Atraso na entrega,Resolvida,Chat,Reclamação de exemplo número 108
+1110,06/09/2026,Atendimento ruim,Resolvida,Site,Reclamação de exemplo número 109
+1111,06/09/2026,Atendimento ruim,Pendente,Telefone,Reclamação de exemplo número 110
+1112,07/09/2026,Atraso na entrega,Resolvida,Chat,Reclamação de exemplo número 111
+1113,07/09/2026,Cobrança indevida,Resolvida,E-mail,Reclamação de exemplo número 112
+1114,07/09/2026,Cobrança indevida,Pendente,Telefone,Reclamação de exemplo número 113
+1115,08/09/2026,Produto diferente do anunciado,Pendente,Redes sociais,Reclamação de exemplo número 114
+1116,08/09/2026,Problema no pagamento,Resolvida,Loja física,Reclamação de exemplo número 115
+1117,08/09/2026,Atraso na entrega,Pendente,E-mail,Reclamação de exemplo número 116
+1118,09/09/2026,Produto com defeito,Resolvida,E-mail,Reclamação de exemplo número 117
+1119,09/09/2026,Troca ou devolução,Pendente,E-mail,Reclamação de exemplo número 118
+1120,09/09/2026,Atraso na entrega,Resolvida,Telefone,Reclamação de exemplo número 119
+1121,10/09/2026,Produto com defeito,Resolvida,Redes sociais,Reclamação de exemplo número 120
+1122,10/09/2026,Cobrança indevida,Pendente,E-mail,Reclamação de exemplo número 121
+1123,10/09/2026,Atraso na entrega,Pendente,Telefone,Reclamação de exemplo número 122
+1124,11/09/2026,Embalagem danificada,Pendente,Chat,Reclamação de exemplo número 123
+1125,11/09/2026,Produto diferente do anunciado,Pendente,Redes sociais,Reclamação de exemplo número 124
+1126,11/09/2026,Atraso na entrega,Resolvida,E-mail,Reclamação de exemplo número 125
+1127,12/09/2026,Atendimento ruim,Resolvida,E-mail,Reclamação de exemplo número 126
+1128,12/09/2026,Embalagem danificada,Resolvida,Chat,Reclamação de exemplo número 127
+1129,12/09/2026,Garantia,Resolvida,Telefone,Reclamação de exemplo número 128
+1130,13/09/2026,Produto com defeito,Resolvida,Telefone,Reclamação de exemplo número 129
+1131,13/09/2026,Atraso na entrega,Resolvida,Redes sociais,Reclamação de exemplo número 130
+1132,13/09/2026,Dificuldade no cadastro,Resolvida,Chat,Reclamação de exemplo número 131
+1133,14/09/2026,Dificuldade no cadastro,Resolvida,E-mail,Reclamação de exemplo número 132
+1134,14/09/2026,Atraso na entrega,Resolvida,Chat,Reclamação de exemplo número 133
+1135,14/09/2026,Atendimento ruim,Resolvida,Redes sociais,Reclamação de exemplo número 134
+1136,15/09/2026,Troca ou devolução,Resolvida,Site,Reclamação de exemplo número 135
+1137,15/09/2026,Produto diferente do anunciado,Resolvida,E-mail,Reclamação de exemplo número 136
+1138,15/09/2026,Atraso na entrega,Pendente,Redes sociais,Reclamação de exemplo número 137
+1139,16/09/2026,Troca ou devolução,Resolvida,E-mail,Reclamação de exemplo número 138
+1140,16/09/2026,Produto diferente do anunciado,Pendente,Chat,Reclamação de exemplo número 139
+1141,16/09/2026,Cobrança indevida,Pendente,Chat,Reclamação de exemplo número 140
+1142,17/09/2026,Atraso na entrega,Resolvida,Loja física,Reclamação de exemplo número 141
+1143,17/09/2026,Atraso na entrega,Resolvida,Chat,Reclamação de exemplo número 142
+1144,17/09/2026,Produto com defeito,Pendente,E-mail,Reclamação de exemplo número 143
+1145,18/09/2026,Produto diferente do anunciado,Resolvida,Chat,Reclamação de exemplo número 144
+1146,18/09/2026,Atraso na entrega,Pendente,E-mail,Reclamação de exemplo número 145
+1147,18/09/2026,Atraso na entrega,Pendente,Redes sociais,Reclamação de exemplo número 146
+1148,19/09/2026,Produto com defeito,Resolvida,E-mail,Reclamação de exemplo número 147
+1149,19/09/2026,Atraso na entrega,Pendente,Telefone,Reclamação de exemplo número 148
+1150,19/09/2026,Atraso na entrega,Pendente,Chat,Reclamação de exemplo número 149
+1151,20/09/2026,Atraso na entrega,Resolvida,E-mail,Reclamação de exemplo número 150
+1152,20/09/2026,Atendimento ruim,Pendente,Chat,Reclamação de exemplo número 151
+1153,20/09/2026,Troca ou devolução,Resolvida,Chat,Reclamação de exemplo número 152
+1154,21/09/2026,Atendimento ruim,Pendente,Redes sociais,Reclamação de exemplo número 153
+1155,21/09/2026,Atraso na entrega,Resolvida,Site,Reclamação de exemplo número 154
+1156,21/09/2026,Produto com defeito,Pendente,Telefone,Reclamação de exemplo número 155
+1157,22/09/2026,Cobrança indevida,Resolvida,E-mail,Reclamação de exemplo número 156
+1158,22/09/2026,Problema no pagamento,Resolvida,Telefone,Reclamação de exemplo número 157
+1159,22/09/2026,Garantia,Resolvida,Telefone,Reclamação de exemplo número 158
+1160,23/09/2026,Produto com defeito,Pendente,E-mail,Reclamação de exemplo número 159
+1161,23/09/2026,Atraso na entrega,Pendente,Chat,Reclamação de exemplo número 160
+1162,23/09/2026,Produto diferente do anunciado,Resolvida,E-mail,Reclamação de exemplo número 161
+1163,24/09/2026,Problema no pagamento,Resolvida,E-mail,Reclamação de exemplo número 162
+1164,24/09/2026,Atendimento ruim,Resolvida,Site,Reclamação de exemplo número 163
+1165,24/09/2026,Embalagem danificada,Pendente,Redes sociais,Reclamação de exemplo número 164
+1166,25/09/2026,Dificuldade no cadastro,Resolvida,E-mail,Reclamação de exemplo número 165
+1167,25/09/2026,Cobrança indevida,Pendente,Telefone,Reclamação de exemplo número 166
+1168,25/09/2026,Dificuldade no cadastro,Pendente,Redes sociais,Reclamação de exemplo número 167
+1169,26/09/2026,Atraso na entrega,Resolvida,Chat,Reclamação de exemplo número 168
+1170,26/09/2026,Produto com defeito,Resolvida,Telefone,Reclamação de exemplo número 169
+1171,26/09/2026,Produto com defeito,Resolvida,Telefone,Reclamação de exemplo número 170
+1172,27/09/2026,Atraso na entrega,Pendente,Site,Reclamação de exemplo número 171
+1173,27/09/2026,Problema no pagamento,Pendente,E-mail,Reclamação de exemplo número 172
+1174,27/09/2026,Atraso na entrega,Pendente,Loja física,Reclamação de exemplo número 173
+1175,28/09/2026,Troca ou devolução,Resolvida,Chat,Reclamação de exemplo número 174
+1176,28/09/2026,Atraso na entrega,Resolvida,E-mail,Reclamação de exemplo número 175
+1177,28/09/2026,Produto com defeito,Resolvida,Redes sociais,Reclamação de exemplo número 176
+1178,29/09/2026,Atendimento ruim,Resolvida,E-mail,Reclamação de exemplo número 177
+1179,29/09/2026,Atraso na entrega,Pendente,Telefone,Reclamação de exemplo número 178
+1180,29/09/2026,Atendimento ruim,Resolvida,Chat,Reclamação de exemplo número 179
+1181,30/09/2026,Atendimento ruim,Pendente,E-mail,Reclamação de exemplo número 180
+1182,30/09/2026,Produto com defeito,Pendente,Site,Reclamação de exemplo número 181
+1183,30/09/2026,Embalagem danificada,Pendente,Chat,Reclamação de exemplo número 182
+1184,01/10/2026,Atraso na entrega,Pendente,E-mail,Reclamação de exemplo número 183
+1185,01/10/2026,Atraso na entrega,Pendente,E-mail,Reclamação de exemplo número 184
+1186,01/10/2026,Produto com defeito,Pendente,E-mail,Reclamação de exemplo número 185
+1187,02/10/2026,Produto com defeito,Resolvida,Chat,Reclamação de exemplo número 186
+1188,02/10/2026,Atraso na entrega,Pendente,E-mail,Reclamação de exemplo número 187
+1189,02/10/2026,Problema no pagamento,Resolvida,Chat,Reclamação de exemplo número 188
+1190,03/10/2026,Produto diferente do anunciado,Resolvida,Redes sociais,Reclamação de exemplo número 189
+1191,03/10/2026,Atraso na entrega,Resolvida,Site,Reclamação de exemplo número 190
+1192,03/10/2026,Produto com defeito,Pendente,E-mail,Reclamação de exemplo número 191
+1193,04/10/2026,Produto com defeito,Resolvida,Telefone,Reclamação de exemplo número 192
+1194,04/10/2026,Atendimento ruim,Resolvida,Telefone,Reclamação de exemplo número 193
+1195,04/10/2026,Produto com defeito,Resolvida,Telefone,Reclamação de exemplo número 194
+1196,05/10/2026,Atendimento ruim,Pendente,Telefone,Reclamação de exemplo número 195
+1197,05/10/2026,Problema no pagamento,Pendente,Telefone,Reclamação de exemplo número 196
+1198,05/10/2026,Produto com defeito,Resolvida,Redes sociais,Reclamação de exemplo número 197
+1199,06/10/2026,Troca ou devolução,Resolvida,Telefone,Reclamação de exemplo número 198
+1200,06/10/2026,Cobrança indevida,Resolvida,Telefone,Reclamação de exemplo número 199
+1201,06/10/2026,Embalagem danificada,Resolvida,Telefone,Reclamação de exemplo número 200
+1202,07/10/2026,Atraso na entrega,Resolvida,E-mail,Reclamação de exemplo número 201
+1203,07/10/2026,Embalagem danificada,Resolvida,Chat,Reclamação de exemplo número 202
+1204,07/10/2026,Problema no pagamento,Resolvida,Telefone,Reclamação de exemplo número 203
+1205,08/10/2026,Cobrança indevida,Pendente,Site,Reclamação de exemplo número 204
+1206,08/10/2026,Produto com defeito,Pendente,Redes sociais,Reclamação de exemplo número 205
+1207,08/10/2026,Troca ou devolução,Resolvida,E-mail,Reclamação de exemplo número 206
+1208,09/10/2026,Troca ou devolução,Resolvida,E-mail,Reclamação de exemplo número 207
+1209,09/10/2026,Troca ou devolução,Resolvida,Redes sociais,Reclamação de exemplo número 208
+1210,09/10/2026,Atraso na entrega,Pendente,Chat,Reclamação de exemplo número 209
+1211,10/10/2026,Garantia,Resolvida,E-mail,Reclamação de exemplo número 210
+1212,10/10/2026,Problema no pagamento,Resolvida,Chat,Reclamação de exemplo número 211
+1213,10/10/2026,Atendimento ruim,Resolvida,Telefone,Reclamação de exemplo número 212
+1214,11/10/2026,Cobrança indevida,Resolvida,Redes sociais,Reclamação de exemplo número 213
+1215,11/10/2026,Atraso na entrega,Pendente,Redes sociais,Reclamação de exemplo número 214
+1216,11/10/2026,Garantia,Pendente,Site,Reclamação de exemplo número 215
+1217,12/10/2026,Produto diferente do anunciado,Resolvida,Chat,Reclamação de exemplo número 216
+1218,12/10/2026,Cobrança indevida,Pendente,Site,Reclamação de exemplo número 217
+1219,12/10/2026,Embalagem danificada,Resolvida,Telefone,Reclamação de exemplo número 218
+1220,13/10/2026,Atraso na entrega,Resolvida,Telefone,Reclamação de exemplo número 219
+1221,13/10/2026,Produto com defeito,Resolvida,E-mail,Reclamação de exemplo número 220
+1222,13/10/2026,Produto com defeito,Resolvida,Site,Reclamação de exemplo número 221
+1223,14/10/2026,Cobrança indevida,Pendente,E-mail,Reclamação de exemplo número 222
+1224,14/10/2026,Atraso na entrega,Pendente,Chat,Reclamação de exemplo número 223
+1225,14/10/2026,Dificuldade no cadastro,Pendente,Chat,Reclamação de exemplo número 224
+1226,15/10/2026,Atendimento ruim,Resolvida,Redes sociais,Reclamação de exemplo número 225
+1227,15/10/2026,Atendimento ruim,Resolvida,Telefone,Reclamação de exemplo número 226
+1228,15/10/2026,Atraso na entrega,Resolvida,E-mail,Reclamação de exemplo número 227
+1229,16/10/2026,Troca ou devolução,Resolvida,Telefone,Reclamação de exemplo número 228
+1230,16/10/2026,Produto diferente do anunciado,Resolvida,E-mail,Reclamação de exemplo número 229
+1231,16/10/2026,Cobrança indevida,Resolvida,Telefone,Reclamação de exemplo número 230
+1232,17/10/2026,Produto com defeito,Resolvida,Chat,Reclamação de exemplo número 231
+1233,17/10/2026,Embalagem danificada,Pendente,E-mail,Reclamação de exemplo número 232
+1234,17/10/2026,Atraso na entrega,Pendente,Loja física,Reclamação de exemplo número 233
+1235,18/10/2026,Produto diferente do anunciado,Pendente,Chat,Reclamação de exemplo número 234
+1236,18/10/2026,Cobrança indevida,Resolvida,Telefone,Reclamação de exemplo número 235
+1237,18/10/2026,Produto com defeito,Resolvida,Redes sociais,Reclamação de exemplo número 236
+1238,19/10/2026,Atendimento ruim,Resolvida,E-mail,Reclamação de exemplo número 237
+1239,19/10/2026,Cobrança indevida,Resolvida,Telefone,Reclamação de exemplo número 238
+1240,19/10/2026,Produto com defeito,Resolvida,Site,Reclamação de exemplo número 239
